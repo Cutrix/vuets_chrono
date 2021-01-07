@@ -1,0 +1,28 @@
+.header-top {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: center;
+  align-content: stretch;
+  background-color: $color-main;
+  min-height: 95px;
+  padding: 0 5rem;
+
+  & .right svg {
+    height: 24px;
+    width: 24px;
+    fill: $color-ghost;
+  }
+
+  & .right a {
+    line-height: 1.6;
+    font-size: 14px;
+    letter-spacing: 0.01em;
+    color: $color-ghost;
+
+    &:hover {
+      color: white;
+    }
+  }
+}

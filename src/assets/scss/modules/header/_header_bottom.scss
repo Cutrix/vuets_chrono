@@ -1,0 +1,28 @@
+.header-bottom {
+  padding: 0 5rem;
+  background-color: white;
+  box-shadow: 0 5px 5px 0 rgba(0, 0, 0, 0.1);
+
+  & .link ul {
+    padding: 10px 0;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+    align-content: stretch;
+    /* positionnement du arrow down */
+    & li {
+      padding-right: 25px;
+      background: url("https://static.chrono24.com/images/default/arrow-down.svg") right center no-repeat;
+      background-size: 13px;
+      color: $color-main;
+      letter-spacing: 0.1em;
+      font-size: 14px;
+
+      &:hover{
+        cursor: pointer;
+      }
+    }
+  }
+}
