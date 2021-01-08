@@ -21,6 +21,52 @@
       </ul>
     </div>
   </div>
+
+  <!-- dropdown1 -->
+  <div class="dropdown">
+    <div class="dropdown-row">
+      <!-- premiere colonne -->
+      <div class="dropdown-col">
+        <span class="title">Marques</span>
+        <ul>
+          <li>Rolex</li>
+          <li>Rolex</li>
+          <li>Rolex</li>
+          <li>Rolex</li>
+          <li>Rolex</li>
+          <li>Rolex</li>
+          <li>Rolex</li>
+          <li>Rolex</li>
+          <li>Rolex</li>
+          <li>Rolex</li>
+          <li>Rolex</li>
+          <li>Rolex</li>
+          <li>Rolex</li>
+          <li>Rolex</li>
+        </ul>
+      </div>
+      <!-- deuxieme colonne -->
+      <div class="dropdown-col">
+        <span>Marques</span>
+        <ul>
+          <li>Rolex</li>
+          <li>Rolex</li>
+          <li>Rolex</li>
+          <li>Rolex</li>
+          <li>Rolex</li>
+          <li>Rolex</li>
+          <li>Rolex</li>
+          <li>Rolex</li>
+          <li>Rolex</li>
+          <li>Rolex</li>
+          <li>Rolex</li>
+          <li>Rolex</li>
+          <li>Rolex</li>
+          <li>Rolex</li>
+        </ul>
+      </div>
+    </div>
+  </div>
 </template>
 <script lang="ts">
 import { defineComponent } from "vue";

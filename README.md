@@ -1,6 +1,6 @@
 # CHRONO24
 ##### Description du projet
-dépôt du projet vuejs de chrono24
+dépôt du projet vuejs de chrono24 , site de commerce utilisant vue3 et typescript aevc smacss comme règle d'organisation du fichier scss .
 
 lien original : https://www.chrono24.fr/
 
@@ -36,11 +36,6 @@ lien original : https://www.chrono24.fr/
       <td align="center" valign="middle">
         <a href="https://developer.mozilla.org/fr/docs/Web/SVG" target="_blank">
           <img width="148px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/SVG_logo.svg/1200px-SVG_logo.svg.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="http://snapsvg.io/" target="_blank">
-          <img width="148px" src="http://snapsvg.io/assets/images/logo.svg">
         </a>
       </td>
  </tr>
