@@ -28,16 +28,6 @@ lien original : https://www.chrono24.fr/
           <img width="148px" src="https://git-scm.com/images/logo@2x.png">
         </a>
       </td>
-      <td align="center" valign="middle">
-        <a href="https://jquery.com/" target="_blank">
-          <img width="148px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Logo_jQuery.svg/1200px-Logo_jQuery.svg.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://developer.mozilla.org/fr/docs/Web/SVG" target="_blank">
-          <img width="148px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/SVG_logo.svg/1200px-SVG_logo.svg.png">
-        </a>
-      </td>
  </tr>
 </tbody>
 </table>
