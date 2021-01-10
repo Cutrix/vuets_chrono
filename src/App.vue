@@ -4,7 +4,7 @@
 </template>
 
 <script lang="ts">
-import headers from "@/components/header.vue";
+import headers from "@/components/header/index.vue";
 import { defineComponent } from "vue";
 
 export default defineComponent({

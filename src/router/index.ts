@@ -5,7 +5,10 @@ const routes: Array<RouteRecordRaw> = [
   {
     path: "/",
     name: "index",
-    component: Index
+    component: Index,
+    meta: {
+      title: "chrono24"
+    }
   }
 ];
 
