@@ -1,7 +1,7 @@
 <template>
   <div class="header-top">
     <div class="left">
-      <SVGLogo></SVGLogo>
+      <SVGLogo />
     </div>
     <div class="right">
       <SVGuser></SVGuser>
@@ -23,7 +23,7 @@
   </div>
 
   <!-- dropdown1 -->
-  <dropdowna></dropdowna>
+
 </template>
 <script lang="ts">
 import { defineComponent } from "vue";
@@ -36,7 +36,6 @@ export default defineComponent({
   components: {
     SVGLogo,
     SVGuser,
-    dropdowna
   }
 });
 </script>

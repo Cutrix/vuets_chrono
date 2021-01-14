@@ -1,0 +1,131 @@
+.card--block {
+  width: 17rem;
+  box-shadow: -1px 5px 5px -2px rgba(0,0,0,0.75);
+}
+
+.explore-img-size {
+  width: 270px; height: 200px
+}
+
+#bg-mobile {
+  background-image: url("/img/watch-scanner-lg.jpg");
+  background-size: cover;
+  height: 33rem;
+}
+
+#bg-mobile h3 {
+  font-family: 'Lato Thin', sans-serif, Arial;
+  font-size: 32px;
+}
+
+.store-badge.app-store.en {
+  background: url(//static.chrono24.com/images/default/app-store-badges/apple-app-store_en.svg);
+}
+
+ .store-badge {
+   display: block;
+   width: 135px;
+   height: 40px;
+   background-repeat: no-repeat;
+   background-size: 100%;
+ }
+
+.store-badge.google-play.en {
+  background: url(//static.chrono24.com/images/default/app-store-badges/play_en.svg);
+}
+
+.list-unstyled {
+  padding-left: 0;
+  list-style: none;
+}
+
+rcard {
+  position: relative;
+  color: #03181c;
+  background-color: #fff;
+}
+
+@media (min-width: 1260px) {
+  .col-lg-5ths {
+    width: 20%;
+    float: left;
+  }
+}
+
+.col-xs-25ths, .col-sm-25ths, .col-md-25ths, .col-lg-25ths, .col-lg-45ths, .col-xs-5ths, .col-sm-5ths, .col-md-5ths, .col-lg-5ths, .col-lg-7 {
+  position: relative;
+  min-height: 1px;
+  padding-right: 17px;
+  padding-left: 17px;
+}
+
+.rcard.rcard-direct .rcard-body {
+  padding: 0;
+}
+
+.rcard .rcard-body {
+   width: 100%;
+   padding: 17px;
+ }
+
+ .rcard .rcard-img-container, .rcard .rcard-img-overlay, .rcard .rcard-body {
+   width: 100%;
+ }
+
+ * {
+   box-sizing: border-box;
+ }
+
+.popular-models-zoom {
+  transition: transform .3s;
+}
+
+.img-responsive {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+ img {
+   vertical-align: middle;
+ }
+
+ img {
+   border: 0;
+ }
+
+ * {
+   box-sizing: border-box;
+ }
+
+ .text-center {
+   text-align: center !important;
+ }
+
+
+ a, .link {
+   color: #81949c;
+   text-decoration: none;
+ }
+
+
+a:-webkit-any-link {
+  color: -webkit-link;
+  cursor: pointer;
+}
+
+ .rcard {
+   position: relative;
+   color: #03181c;
+   background-color: #fff;
+ }
+
+.text-lg {
+  font-size: 17px;
+  line-height: 1.375;
+  font-weight: 400;
+}
+
+ .text-default {
+   color: #04293a !important;
+ }

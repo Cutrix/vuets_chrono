@@ -2,6 +2,10 @@
 @import "base/colors";
 @import "base/bootstrap";
 @import "base/index";
-
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
 /* header */
 @import "modules/header/index";
+
+/*Home*/
+@import "modules/home/home";
+@import "modules/cards/product";
