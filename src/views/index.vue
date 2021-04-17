@@ -1,12 +1,11 @@
 <template>
   <div>
 
-    <div class="container-fluid">
-      
+    <div class="container-fluid" id="banniere">
+      <p class="text-white">aichas</p>
     </div>
 
     <div class="container">
-
       <div class="row mb-3">
         <div class="col-md-12 text-center">
           <h3 class="title--card" style="font-family: 'Lato Thin', sans-serif">Explore chrono24</h3>
