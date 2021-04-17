@@ -11,7 +11,7 @@
   <!-- header bottom -->
   <div class="header-bottom">
     <div class="link">
-      <ul class="list-unstyled">
+      <ul class="list-unstyled mb-0">
         <li>ACHETER UNE MONTRE</li>
         <li>VENDRE UNE MONTRE</li>
         <li>MAGAZINE</li>
