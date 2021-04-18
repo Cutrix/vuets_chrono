@@ -2,13 +2,17 @@
   <div>
 
     <div class="container-fluid" id="banniere">
-      <p class="text-white">aichas</p>
+      <div class="row">
+        <div class="col-md-12 d-flex justify-content-center">
+          <h1 class="text-white banniere--text-1">Find your watch on the largest</h1>
+        </div>
+      </div>
     </div>
 
     <div class="container">
       <div class="row mb-3">
         <div class="col-md-12 text-center">
-          <h3 class="title--card" style="font-family: 'Lato Thin', sans-serif">Explore chrono24</h3>
+          <h3 class="title--card">Explore chrono24</h3>
         </div>
       </div>
 
@@ -55,7 +59,7 @@
             <div class="card-body py-5">
               <h4 class="card-title">Rolex Submarine Green</h4>
             </div>
-          </div>
+          </div>o
         </div>
 
         <div class="col-md-3 mt-3">
